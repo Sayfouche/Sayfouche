@@ -1,6 +1,6 @@
 # Saïfallah Mansour
 
-**Software architect — critical systems & AI**
+**Software architect — critical systems & agentic AI**
 *.NET / Python · Paris*
 
 15 years building backend systems (since 2011), 13 of them in financial markets — BNP Paribas Asset Management, Société Générale CIB. Now applying that foundation to AI in production: RAG, LLM agents, tool use, MCP.
